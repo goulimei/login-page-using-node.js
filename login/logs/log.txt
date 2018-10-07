@@ -1,0 +1,2 @@
+::1 - - [30/Sep/2018:06:31:10 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36"
+::1 - - [30/Sep/2018:06:31:15 +0000] "POST /login HTTP/1.1" 200 21 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36"
